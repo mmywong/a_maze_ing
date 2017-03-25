@@ -1,10 +1,39 @@
 fileFormatVersion: 2
-guid: be85b9838feab0644843abc8766a0701
-timeCreated: 1490413535
+guid: 498f1573a0c14e04c900b8e4b902be7f
+timeCreated: 1490416156
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: group
+    100002: group1
+    100004: pasted__group
+    100006: pasted__pasted__pCylinder2
+    100008: pasted__pCylinder2
+    100010: pCylinder1
+    100012: pCylinder2
+    100014: //RootNode
+    400000: group
+    400002: group1
+    400004: pasted__group
+    400006: pasted__pasted__pCylinder2
+    400008: pasted__pCylinder2
+    400010: pCylinder1
+    400012: pCylinder2
+    400014: //RootNode
+    2300000: pasted__pasted__pCylinder2
+    2300002: pasted__pCylinder2
+    2300004: pCylinder1
+    2300006: pCylinder2
+    3300000: pasted__pasted__pCylinder2
+    3300002: pasted__pCylinder2
+    3300004: pCylinder1
+    3300006: pCylinder2
+    4300000: pCylinder1
+    4300002: pCylinder2
+    4300004: pasted__pCylinder2
+    4300006: pasted__pasted__pCylinder2
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
